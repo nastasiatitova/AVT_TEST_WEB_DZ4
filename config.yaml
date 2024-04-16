@@ -1,0 +1,14 @@
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser: chrome
+
+login: '123658962'
+password: '1e660b4799'
+title_hello: 'Hello, 123658962'
+
+title: 'Печенюшка'
+content: 'Это вкусная, имбирная печенька!'
+
+username: Grisha
+user_email: grisha13@tut.by
+content_contact: "mir, trud, mai"
